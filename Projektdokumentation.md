@@ -1,3 +1,15 @@
+Use case - Eventplanung
+
+Wir konzentrieren uns für die Erstellung und Planung eines Muster Veranstaltungsevent. Darunter fallen Hochzeits-, Verlobungs- und
+Geburtstagsfeier, die auf unserer Seite geplant und erstellt werden.
+Für die drei Events werden vorerst Musterbeispiele erzeugt und angezeigt. Die Musterbeispiele können dann auf die Bedürfnisse des Kunden angepasst werden. Wichtig ist nur, die wichtigsten Grundsteine der Feier zu erzeugen.
+Es wird zu dem von Bedeutung sein, den Standort der Feier zu wissen, da die Faktoren, wie das Catering, DJs, Fotografen oder die Lokation sich auf den Standort beziehen wird.
+
+D. h., wenn eine Planung für die Hochzeitsfeier benötigt wird, werden die wichtigsten Anforderungen und Standards einer Hochzeit als Musterbeispiel angezeigt. Unsere Zielgruppe bezieht sich
+auf die entsprechende Personengruppe, die solche Events benötigen. Wir schätzten das Alter auf 20 - 50 Jahren,
+sowohl männlich und weiblich. Die Planung kann direkt oder indirekt wie z. B. durch einen externen Eventplaner erstellt werden.
+
+
 Outline für die Hausarbeit
 
 1. Definition
